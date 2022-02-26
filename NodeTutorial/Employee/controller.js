@@ -1,5 +1,6 @@
 let employees = []
 
+
 const getAll = (req, res) => {
   res.json(employees)
 }
